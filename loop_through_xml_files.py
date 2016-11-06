@@ -3,7 +3,7 @@
 import xml.etree.ElementTree as etree
 import glob
 
-xmlfiles = glob.glob("/path/to/ead/*.xml")
+xmlfiles = glob.glob("/Users/jrider/Desktop/Final_Project/EAD.xml")
 
 
 for a_xml in xmlfiles:
@@ -16,6 +16,5 @@ for a_xml in xmlfiles:
 
 	for a_element in root:
 
-
-		if a_element.tag == "{http://www.loc.gov/mods/v3}abstract":
+		if a_element.tag == "{https://www.loc.gov/ead/ead.xsd}subject":
 			print (a_element.text)
