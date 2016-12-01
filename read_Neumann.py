@@ -34,6 +34,13 @@ for a_element in root:
 											if 'unittitle' in even_one_more_element.tag:
 
 												print(even_one_more_element.text)
+
+											if 'unitdate' in even_one_more_element.tag:
+													print(even_one_more_element.text)
+
+											#for one_last_element in even_one_more_element:
+											#	if 'type' in one_last_element.tag:
+											#		print(one_last_element.attrib)
 		
 
 			
