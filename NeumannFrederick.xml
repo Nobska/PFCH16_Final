@@ -1,0 +1,314 @@
+<?xml version="1.0" encoding="utf-8"?>
+<ead xmlns="urn:isbn:1-931666-22-9" xmlns:xlink="http://www.w3.org/1999/xlink"
+  xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+  xsi:schemaLocation="urn:isbn:1-931666-22-9 http://www.loc.gov/ead/ead.xsd">
+  <eadheader countryencoding="iso3166-1" dateencoding="iso8601" langencoding="iso639-2b"
+    repositoryencoding="iso15511">
+    <eadid countrycode="US" mainagencycode="US-NjPT"/>
+    <filedesc>
+      <titlestmt>
+        <titleproper>Frederick Neumann papers<num>2003.3.30</num></titleproper>
+      </titlestmt>
+      <publicationstmt>
+        <publisher>Princeton Theological Seminary. Library. Special Collections</publisher>
+        <p id="logostmt"><extref xlink:actuate="onLoad"
+            xlink:href="http://www.ptsem.edu/library/images/PTSLOGO-Library-large.jpg"
+            xlink:show="embed" xlink:type="simple"/></p>
+        <address><addressline>Princeton Theological Seminary</addressline><addressline>Library</addressline><addressline>PO Box 821</addressline><addressline>Princeton, NJ 08542</addressline><addressline>speccoll@ptsem.edu</addressline><addressline>URL: <extptr xlink:href="http://manuscripts.ptsem.edu/" xlink:show="new" xlink:title="http://manuscripts.ptsem.edu/" xlink:type="simple"/></addressline></address>
+      </publicationstmt>
+    </filedesc>
+    <profiledesc>
+      <creation>This finding aid was produced using ArchivesSpace on <date>2016-11-14 14:51:02
+          -0500</date>.</creation>
+      <descrules>Describing Archives: A Content Standard</descrules>
+    </profiledesc>
+  </eadheader>
+  <archdesc level="collection">
+    <did>
+      <langmaterial>
+        <language langcode="mul">Multiple languages</language>
+      </langmaterial>
+      <repository>
+        <corpname>Princeton Theological Seminary. Library. Special Collections</corpname>
+      </repository>
+      <unittitle>Frederick Neumann papers</unittitle>
+      <origination label="creator">
+        <persname source="lcnaf">Neumann, Frederick, 1899-1967</persname>
+      </origination>
+      <origination label="creator">
+        <persname source="lcnaf">Neumann, Edith, 1902-2002</persname>
+      </origination>
+      <unitid>2003.3.30</unitid>
+      <physdesc altrender="whole">
+        <extent altrender="materialtype spaceoccupied">18.5 Linear Feet</extent>
+        <extent altrender="carrier">13 record cartons, 5 archives boxes</extent>
+      </physdesc>
+      <unitdate normal="1929/1999" type="inclusive">1929-1999</unitdate>
+      <abstract audience="internal" id="aspace_74cfcf2d7e148bd023282b326e4ca086">Frederick
+        (Friedrich) Neumann was a Jewish philosophy scholar from Austria who converted to
+        Christianity in the 1920s, emigrated to the United States, and became a Congregational
+        minister and visiting professor at Hartford Seminary. Edith Spitzer Neumann was a
+        bacteriologist and microbiologist. This collection consists of his academic and professional
+        papers and records from her successful work to translate and publish his sermons.</abstract>
+      <container id="aspace_8da8e963505c2f6b63dc808bb43579c7" label="Mixed Materials" type="carton"
+        >1-18</container>
+    </did>
+    <accessrestrict id="aspace_882d4b276ca2f97bda809877341fc066">
+      <head>Conditions Governing Access</head>
+      <p>There are no special restrictions to the access of this collection. It may be examined by
+        library patrons under the normal rules and conditions of Special Collections.</p>
+    </accessrestrict>
+    <acqinfo id="aspace_4fc7e9ff0db54b061d189f1790378605">
+      <head>Immediate Source of Acquisition</head>
+      <p>The Frederick Neumann papers were given to PTS Special Collections by the Neumann estate
+        January 2003.</p>
+    </acqinfo>
+    <arrangement id="aspace_367a60329f869705ae27cf7196db03da">
+      <head>Arrangement</head>
+      <p>The collection is arranged in four series: Academic notebooks and journals, Alphabetical
+        subject files, Mixed materials, and Posthumous works. Original order and folder terms have
+        been retained as much as possible. Some weeding has been done of multiple copies of
+        published articles.</p>
+    </arrangement>
+    <bioghist id="aspace_9e8317d1a4f467eb70dd28ee4a8bbcb1">
+      <head>Biographical / Historical</head>
+      <p>Frederick (Friedrich) Neumann was born in Vienna January 10, 1899. He studied philosophy at
+        the universities of Vienna and Freiburg/Breisgau. His teachers included Edmund Husserl,
+        Martin Heidegger and Theodor Gomperz, with whom he corresponded extensively. Neumann wrote
+        his doctoral dissertation on Hermann Lotze.</p>
+      <p>Neumann's family background was Jewish, but he became a Christian as an adult, deeply
+        influenced by Søren Kierkegaard's work. Upon his conversion, Neumann gave up an academic
+        career for Christian service. In 1927 he married Edith (Editha) Spitzer, also an adult
+        convert to Christianity, whom he met two years earlier at a meeting of the Swedish Society
+        for the Conversion of Jews to Christianity. After a brief missionary stint in Yugoslavia,
+        they returned to Vienna where he worked for the British Society for Propagation of the
+        Gospel among the Jews. </p>
+      <p>Fearing his arrest after the German occupation of Austria in 1938, the Neumanns fled Vienna
+        via the Danube, travelling through Zagreb, northern Italy, and Paris, arriving in London,
+        where he was ordained a Congregational minister. From 1939 to 1947 they lived in Haifa,
+        Palestine, where he served as a missionary. </p>
+      <p>In 1948, the couple went to the United States, where he became associate director of the
+        Newcomers Christian Fellowship, a service organization for refugees in New York. Frederick
+        Neumann later became minister of the Bushwick Avenue Congregational Church in Brooklyn and
+        visiting professor at the Hartford Seminary, his only academic position. He died May 13,
+        1967. </p>
+      <p>Edith Spitzer Neumann was born in Vienna in 1902, youngest child of lawyer and art
+        collector Alfred Spitzer. She studied chemistry and physics at the University of Vienna,
+        receiving a doctorate in chemistry in 1927. She worked as a bacteriologist at the Jewish
+        Hospital in Brooklyn, then as microbiologist at Maimonides Hospital for 20 years. After her
+        husband’s death, she moved to Manhattan and became medical director of the Jetti Katz
+        Clinical Laboratory, retiring in 1982 at age 80. </p>
+      <p>Upon retirement, she oversaw the publication and translation into German of her husband’s
+        sermons and in 1983 established the Frederick Neumann Memorial Lecture at Princeton
+        Theological Seminary. In honor of her work and philanthropy, she received the Austrian Cross
+        of Honor for Science and Art First Class in 1998. She died in New York June 29, 2002, at the
+        age of 100.</p>
+      <p><extref xlink:href="http://findingaids.cjh.org/?pID=1292843">Leo Baeck Institute
+          Archives</extref></p>
+    </bioghist>
+    <prefercite id="aspace_2d47ed6374225fab1bc5a122f784824e">
+      <head>Preferred Citation</head>
+      <p>The following is the acceptable citation for publication: Frederick Neumann papers. Special
+        Collections, Princeton Theological Seminary Library.</p>
+    </prefercite>
+    <bibliography id="aspace_29fa661e63b510f4dbb7a42b1bbf3be1">
+      <head>Bibliography</head>
+      <bibref>Neumann, Frederick. 1983. <emph render="italic">The binding truth: A selective
+          homiletical commentary on the New Testament</emph>. Allison Park, Pa: Pickwick
+        Publications.</bibref>
+      <bibref>Neumann, Frederick. 1978. <emph render="italic">Where do we stand?: A selective
+          homiletical commentary on the Old Testament</emph>. Brooklyn, N.Y: Theo. Gaus. </bibref>
+      <bibref>Neumann, Frederick. 1971. <emph render="italic">God's fifth columnist and other
+          writings</emph>. Appleford: Marcham Manor Press. </bibref>
+      <bibref>Neumann, Frederick. 1968. "The lord's ways and ours". <emph render="italic">The
+          Hartford Quarterly</emph> 8 (2): 69. </bibref>
+      <bibref>Neumann, Frederick. 1968. "Hate in the Bible". <emph render="italic">The Hartford
+          Quarterly</emph> 8 (2): 64. </bibref>
+      <bibref>Neumann, Frederick. 1965. "The devil's prayer - A lyrical play in one act". <emph
+          render="italic">The Hartford Quarterly</emph> 5 (4): 5. </bibref>
+      <bibref>Neumann, Frederick. 1962. "A sermon for trinity". <emph render="italic">The Hartford
+          Quarterly</emph> 3 (1): 37. </bibref>
+      <bibref>Neumann, Frederick. 1962. "The weapon and comfort of humor: A vindication of the book
+        of Esther". <emph render="italic">The Hartford Quarterly</emph> 2 (4): 57.</bibref>
+      <bibref>Neumann, Frederick. 1961. "Ecclesiastes - philosopher without propositions". <emph
+          render="italic">The Hartford Quarterly</emph> 1 (3): 35. </bibref>
+      <bibref>Neumann, Frederick. 1955. "Christian love and the Jews". Vol. 44. Geneva: Commission
+        on World Mission and Evangelism of the World Council of Churches. </bibref>
+      <bibref>Neumann, Frederick. 1955. "Christian love and the Jews". <emph render="italic"
+          >International Review of Mission</emph> 44 (175): 264-73. </bibref>
+    </bibliography>
+    <controlaccess>
+      <title source="lcsh">Bible--Old Testament</title>
+      <title source="lcsh">Bible. New Testament.</title>
+      <subject source="lcsh">Christianity and Judaism.</subject>
+      <subject source="lcsh">Christianity -- 20th century</subject>
+      <genreform source="rbgenr">Clippings</genreform>
+      <genreform source="rbgenr">Correspondence</genreform>
+      <genreform source="lcsh">Sermons</genreform>
+      <geogname source="lcsh">Religion--Study and teaching.</geogname>
+      <subject source="lcsh">Philosophy</subject>
+      <persname source="lcnaf">Gomperz, Theodor, 1832-1912</persname>
+    </controlaccess>
+    <dsc>
+      <c01 id="aspace_f2b12992deffed5878566aa7819c67b8" level="series">
+        <did>
+          <unittitle>Academic notebooks, journals</unittitle>
+          <unitdate normal="1920/1960" type="inclusive">1920-1960</unitdate>
+          <container id="aspace_91ab930e9e3248878fbcb0fe4f1815ec" label="Mixed Materials"
+            type="carton">1</container>
+        </did>
+        <scopecontent id="aspace_0d69c804dd660ed83b0a67b1f46e8ea7">
+          <head>Scope and Contents</head>
+          <p>Class notes, exercise booklets, journals</p>
+        </scopecontent>
+      </c01>
+      <c01 id="aspace_260ad34082c55cc4bb9807324bd230f7" level="series">
+        <did>
+          <unittitle>Alphabetical subject files</unittitle>
+          <unitdate normal="1929/1990" type="inclusive">1929-1990</unitdate>
+        </did>
+        <scopecontent id="aspace_7f86fe855f40161878c61a2c8e48fb5d">
+          <head>Scope and Contents</head>
+          <p>This series contains files on Neumann's work in Vienna, London, Haifa, at the Bushwick
+            Avenue Congregational Church in Brooklyn, and at Hartford Seminary. Included are
+            correspondence, sermons, and papers on Christianity and Judaism, philosophy, and faith
+            and reason.</p>
+        </scopecontent>
+        <c02 id="aspace_f56d39833cddb0880ebd0edfe69bd48a" level="file">
+          <did>
+            <unittitle>A-C</unittitle>
+            <unitdate normal="1930/1960" type="inclusive">1930-1960</unitdate>
+            <container id="aspace_a8a7572fd51073fb659a3d2aff2b97a1" label="Text" type="carton"
+              >2</container>
+          </did>
+        </c02>
+        <c02 id="aspace_7559e0e6505309b07ba3ec3e657831c2" level="file">
+          <did>
+            <unittitle>C-E</unittitle>
+            <unitdate normal="1930/1980" type="inclusive">1930-1980</unitdate>
+            <container id="aspace_f099b46a672f75515834cdb73d823085" label="Text" type="carton"
+              >3</container>
+          </did>
+        </c02>
+        <c02 id="aspace_4069103c38a47febd711e0afe4727d71" level="file">
+          <did>
+            <unittitle>F-J</unittitle>
+            <unitdate normal="1929/1968" type="inclusive">1929-1968</unitdate>
+            <container id="aspace_e2ea1f8b419c13e5192dbbad0214dfc9" label="Text" type="carton"
+              >4</container>
+          </did>
+        </c02>
+        <c02 id="aspace_86ade29d2434d827da64c29c34d874dd" level="file">
+          <did>
+            <unittitle>J-O</unittitle>
+            <unitdate normal="1933/1980" type="inclusive">1933-1980</unitdate>
+            <container id="aspace_cc59c0e2d7cbfa1df9f688135380f89e" label="Text" type="carton"
+              >5</container>
+          </did>
+        </c02>
+        <c02 id="aspace_cb0a1a708d824e807099a2c4503f1631" level="file">
+          <did>
+            <unittitle>P-Z</unittitle>
+            <unitdate normal="1931/1990" type="inclusive">1931-1990</unitdate>
+            <container id="aspace_74f10303a077160842af24787343ac6c" label="Text" type="carton"
+              >6</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_1e8422a1978740286604ae0c779615b8" level="series">
+        <did>
+          <unittitle>Mixed materials</unittitle>
+          <unitdate normal="1940/1970" type="inclusive">1940-1970</unitdate>
+        </did>
+        <scopecontent id="aspace_37a8e7ba68b410060d69146bd643dee8">
+          <head>Scope and Contents</head>
+          <p>This series contains daily planners and diaries; sermon notecards; publications and
+            journals with articles by Neumann and others; and biographical materials about both
+            Frederick and Edith Neumann, including photographs and artifacts.</p>
+        </scopecontent>
+        <c02 id="aspace_2016b9ffde6fb6d97396c89711d89969" level="file">
+          <did>
+            <unittitle>Daily planners and diaries</unittitle>
+            <unitdate normal="1950/1967" type="inclusive">1950-1967</unitdate>
+            <container id="aspace_991f636f407f023be60d33216aa320d0" label="Mixed Materials"
+              type="carton">7</container>
+          </did>
+        </c02>
+        <c02 id="aspace_eaebcb64de628aee38de9fa85b3f1c41" level="file">
+          <did>
+            <unittitle>Sermon notecards</unittitle>
+            <unitdate normal="1940/1960" type="inclusive">1940-1960</unitdate>
+            <container id="aspace_2613c0bbb8342f5616a92c483cb1b0f3" label="Mixed Materials"
+              type="box">8-12</container>
+          </did>
+        </c02>
+        <c02 id="aspace_b06ecb2d2ef53c80a823f95d2f890ad6" level="file">
+          <did>
+            <unittitle>Published articles, works by others, biographical materials</unittitle>
+            <unitdate normal="1875/1997" type="inclusive">1875-1997</unitdate>
+            <container id="aspace_a1f005f905a229ce618e74ef7b4a1866" label="Mixed Materials"
+              type="carton">13</container>
+          </did>
+        </c02>
+      </c01>
+      <c01 id="aspace_2d73157741935631853a828b052a563c" level="series">
+        <did>
+          <unittitle>Posthumous works</unittitle>
+          <unitdate normal="1970/2000" type="inclusive">1970-2000</unitdate>
+        </did>
+        <scopecontent id="aspace_9c5240b0000f3fe755e577ed745a5fc0">
+          <head>Scope and Contents</head>
+          <p>This series contains compilations, transcriptions, translations, manuscripts,
+            correspondence, galleys, and other documents pertaining to Edith Neumann's publishing of
+            her late husband's writings. Included are documents on: <emph render="italic">God's
+              Fifth Columnist</emph>, <emph render="italic">Where do we stand?</emph>, <emph
+              render="italic">The binding truth</emph>, <emph render="italic">Justice and
+              grace</emph>, <emph render="italic">The new heart</emph></p>
+          <p>Also in this series are materials on the Princeton Theological Seminary lecture series
+            and prize established by Edith Neumann in her husband's memory.</p>
+        </scopecontent>
+        <c02 id="aspace_2ad6561992985d4e38918fb535ee6b33" level="file">
+          <did>
+            <unittitle>Faith and Knowledge, God's Fifth Columnist, the Jewish Question</unittitle>
+            <unitdate normal="1937/1994" type="inclusive">1937-1994</unitdate>
+            <container id="aspace_5e56a09908bba58dd8250b139c88290c" label="Text" type="carton"
+              >14</container>
+          </did>
+        </c02>
+        <c02 id="aspace_b1f62fd30249bd4569ce4cecd003b6ab" level="file">
+          <did>
+            <unittitle>Der Römerbrief</unittitle>
+            <unitdate normal="1943/1996" type="inclusive">1943-1996</unitdate>
+            <container id="aspace_bc3d34b97ee163a155fec5b592fd2e51" label="Text" type="carton"
+              >15</container>
+          </did>
+        </c02>
+        <c02 id="aspace_a450d13d6067b1c4a4e735b320d9380b" level="file">
+          <did>
+            <unittitle>Sermons, Sermon on the Mount</unittitle>
+            <unitdate normal="1943/1990" type="inclusive">1943-1990</unitdate>
+            <container id="aspace_7db141295858a246a26592eeedabf05e" label="Text" type="carton"
+              >16</container>
+          </did>
+        </c02>
+        <c02 id="aspace_a27db7e04b760180b9907ca1bbbf89f4" level="file">
+          <did>
+            <unittitle>Publisher correspondence, publicity materials, PTS Neumann
+              lectures</unittitle>
+            <unitdate normal="1953/1999" type="inclusive">1953-1999</unitdate>
+            <container id="aspace_c0127391d856da02ce279c10b8b03ab5" label="Text" type="carton"
+              >17</container>
+          </did>
+        </c02>
+        <c02 id="aspace_d498008816c17344a37b24d160ff2499" level="file">
+          <did>
+            <unittitle>Printers' galleys</unittitle>
+            <unitdate normal="1965/1979" type="inclusive">1965-1979</unitdate>
+            <container id="aspace_eeceef9ac6fb50fcf1c64cd1e629272b" label="Text" type="carton"
+              >18</container>
+          </did>
+        </c02>
+      </c01>
+    </dsc>
+  </archdesc>
+</ead>
