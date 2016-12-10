@@ -2,6 +2,9 @@
 #Import ElementTree Class from xml.etree module
 import xml.etree.ElementTree as etree
 
+#import csv module
+import csv
+
 #ask xml module to load xml file and parse it
 tree = etree.parse('/Users/jrider/Desktop/Final_Project/NeumannFrederick.xml')
 
@@ -42,8 +45,14 @@ for a_element in root:
 											if 'container' in even_one_more_element.tag:
 												
 												print(even_one_more_element.attrib['type'])
-													
 
+												#create file called metadata.csv with contents of arrayofdata and write each row as writerow.
+												arrayofdata=['unittitle','unitdate','container']
+																										
+												with open('metadata.csv', 'w') as csvfile:
+													metadatawriter = csv.writer(csvfile, delimiter='')
+													for row in arrayofdata:
+														metadatawriter.writerow(row)
 
 
 
